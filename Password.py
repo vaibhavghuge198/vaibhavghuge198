@@ -1,4 +1,4 @@
-#third commit
+
 #To calculate student total marks and grades
 print("To calculate stdent total marks and grade")
 obt_marks=float(input("enter obtaind marks ="))
