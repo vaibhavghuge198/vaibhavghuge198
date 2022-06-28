@@ -1,3 +1,4 @@
+#this is best code compared by prvious
 #to write a program for store student data and using iterable operator over a dictionry
 
 '''std_data={ 1:["vaibhav",27],2:["tushar",24],3:["ganesh",45],4:["raj",20]}
