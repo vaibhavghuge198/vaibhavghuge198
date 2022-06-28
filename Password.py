@@ -1,5 +1,5 @@
 #third commit
-#To calculate stdent total marks and grade
+#To calculate student total marks and grades
 print("To calculate stdent total marks and grade")
 obt_marks=float(input("enter obtaind marks ="))
 total_marks=float(input("enter total marks ="))
@@ -17,19 +17,6 @@ else:
                 print("Grade A++")
 
 print(percentage)
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
