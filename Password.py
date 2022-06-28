@@ -1,4 +1,4 @@
-
+#this is my first program in python coding language
 #To calculate student total marks and grades
 print("To calculate stdent total marks and grade")
 obt_marks=float(input("enter obtaind marks ="))
